@@ -23,11 +23,11 @@ ANZ JO XAVIER
 
 #### Leadership and Influence:
 
--I actively volunteer in various tech groups at my college, leading the IEDC MACE content team and contributing to events like Hundle Global. I also served on the program committee for GDSC MACE,being part of organizing hackathons like GIRLATION. These experiences honed my communication, collaboration, and ability to identify impactful initiatives. By seeking out opportunities and empowering others, I strive to be a leader and influencer in tech.
+- I actively volunteer in various tech groups at my college, leading the IEDC MACE content team and contributing to events like Hundle Global. I also served on the program committee for GDSC MACE,being part of organizing hackathons like GIRLATION. These experiences honed my communication, collaboration, and ability to identify impactful initiatives. By seeking out opportunities and empowering others, I strive to be a leader and influencer in tech.
 
 #### Networking:
 
--I actively network through tech communities at my college, fostering connections with like-minded individuals. This has honed my communication and collaboration skills. I plan to engage by sharing knowledge, participating in discussions, and learning from others. By fostering a two-way exchange, I believe I can influence and inspire others in the tech field. 
+- I actively network through tech communities at my college, fostering connections with like-minded individuals. This has honed my communication and collaboration skills. I plan to engage by sharing knowledge, participating in discussions, and learning from others. By fostering a two-way exchange, I believe I can influence and inspire others in the tech field. 
 
 #### Career Plan:
 
@@ -39,10 +39,5 @@ ANZ JO XAVIER
 - Kerala's tech scene is buzzing! Strong talent, government support, and a focus on social impact have me excited. I see myself contributing to its continued growth. 
 
 
-
-
-
-> In your portfolio, include the following details:
->> check out [vishakhabhayan@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for an exmaple
 
 ---
