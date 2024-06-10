@@ -6,6 +6,12 @@
 
 ## Portfolio Highlights
 
+### Final Year Project
+
+| Name                | Description                                                               | Repo Link                                                 | 
+|---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| **Animating Videos Using Stable Diffusion** | Converts a raw video into animation using Stable Diffusion | [Repo Link 1](https://github.com/anzjoxavier/Animating-Video-Using-StableDiffusion) |
+
 ### My Hobby Projects in Flutter
 
 | Name                | Description                                                               | Repo Link                                                 | 
