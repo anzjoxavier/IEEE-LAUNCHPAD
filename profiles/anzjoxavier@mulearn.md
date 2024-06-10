@@ -1,5 +1,5 @@
-# Full Name 
-ANZ JO XAVIER
+# ANZ JO XAVIER
+
 ### About Me
 
 > Hi! I'm Anz Joxavier, a B.Tech student in Computer Science (Data Science) at Mar Athanasius College of Engineering, Kerala. I'm passionate about both coding and development, with skills in programming languages like Python, Java, and C++, along with frontend and backend technologies like Flutter and FastAPI. I've also honed my design skills using Photoshop and Canva. Professionally, I've gained experience as a Mobile App Development Intern where I built a chat system for a social media app. I've also led the content team at IEDC MACE and participated in various hackathons and volunteer initiatives.
