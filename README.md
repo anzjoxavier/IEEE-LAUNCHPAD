@@ -1,7 +1,3 @@
-# IEEE LAUNCHPAD PROFILE
-
-
-
 # ANZ JO XAVIER
 
 ### About Me
