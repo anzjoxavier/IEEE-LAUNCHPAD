@@ -1,156 +1,57 @@
-# IEEE LAUNCHPAD Job Fair
+# IEEE LAUNCHPAD PROFILE
 
 
 
+# ANZ JO XAVIER
 
+### About Me
 
+> Hi! I'm Anz Joxavier, a B.Tech student in Computer Science (Data Science) at Mar Athanasius College of Engineering, Kerala. I'm passionate about both coding and development, with skills in programming languages like Python, Java, and C++, along with frontend and backend technologies like Flutter and FastAPI. I've also honed my design skills using Photoshop and Canva. Professionally, I've gained experience as a Mobile App Development Intern where I built a chat system for a social media app. I've also led the content team at IEDC MACE and participated in various hackathons and volunteer initiatives.
 
+## Portfolio Highlights
 
-![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
+### Final Year Project
 
+| Name                | Description                                                               | Repo Link                                                 | 
+|---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| **Animating Videos Using Stable Diffusion** | Converts a raw video into animation using Stable Diffusion | [Repo Link 1](https://github.com/anzjoxavier/Animating-Video-Using-StableDiffusion) |
 
+### My Hobby Projects in Flutter
 
+| Name                | Description                                                               | Repo Link                                                 | 
+|---------------------|---------------------------------------------------------------------------|-----------------------------------------------------------|
+| **Notes App**       | An App to save notes                                                      | [Repo Link 1](https://github.com/anzjoxavier/NotesApp)    | 
+| **Book Store App**  | UI App for book store                                                     | [Repo Link 2](https://github.com/anzjoxavier/BooksApp)    |
 
+#### Competitive Website Profiles:
 
+- [Leetcode](https://leetcode.com/anzjoxavier2002/)
 
+#### Find my Resume here
 
-<div align="center">
-Welcome to the LAUNCHPAD Job Fair, an opportunity to secure your spotlight and connect with potential employers through karma points! This event is designed to facilitate meaningful interactions between talented individuals like yourself and companies seeking top-tier talent.
-</div>
+- [Resume](https://drive.google.com/file/d/12pJYj_l_HSAbY7EqfK9RDEzjx_7P3LRy/view?usp=sharing)
 
-#
+#### Leadership and Influence:
 
+- I actively volunteer in various tech groups at my college, leading the IEDC MACE content team and contributing to events like Hundle Global. I also served on the program committee for GDSC MACE,being part of organizing hackathons like GIRLATION. These experiences honed my communication, collaboration, and ability to identify impactful initiatives. By seeking out opportunities and empowering others, I strive to be a leader and influencer in tech.
 
+#### Networking:
 
+- I actively network through tech communities at my college, fostering connections with like-minded individuals. This has honed my communication and collaboration skills. I plan to engage by sharing knowledge, participating in discussions, and learning from others. By fostering a two-way exchange, I believe I can influence and inspire others in the tech field. 
 
-<div align="center">
+#### Career Plan:
 
+- In short term, I'll connect with local communities to learn new skills and share my skills.
+- In long term, I like to start a startup to contribute to the nation. 
 
+#### Thoughts on Kerala's Tech Ecosystem:
 
-
-# How to Participate
-[![Watch the video](https://i.ytimg.com/vi/XBcJKtRCbu4/hqdefault.jpg?sqp=-oaymwExCNACELwBSFryq4qpAyMIARUAAIhCGAHwAQH4Af4IgALQBYoCDAgAEAEYZCBkKGQwDw==&rs=AOn4CLBmBH9zsXdht8RTDm4a5l2ZSM7p9g)](https://youtu.be/XBcJKtRCbu4?si=ggG3c0Q3xRfnVa1H)
-
-> **Watch the onboarding video**
-
-## Step 1:
-
-
-
-<!-- <img width="428" alt="Screenshot 2023-10-01 at 8 37 38 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/8f82a51b-a703-4de2-a714-2e6d876dea83"> -->
-<img width="432" alt="Screenshot 2024-01-01 at 5 48 28 PM" src="https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/27196322-f99f-4812-8241-a1fcb07821d0">
-
-
-
-### Join the Gtech Mulearn Discord Server by registering [here](https://app.mulearn.org/register).
-#### [Onboarding Video(English)](https://www.youtube.com/watch?v=Pjpms7b0mAI) | [Onboarding Video(Malayalam)](https://www.youtube.com/watch?v=qVj_5Pga3XY)
-
-#
-
-## Step 2:
-
-### follow the onboarding workflow. Connect your Discord account during this process to obtain your MUID (Mulearn User ID).
-
-![image](https://github.com/gtech-mulearn/Top-100-Coders/assets/94307781/7c534dc6-0e4f-43ae-b8d6-10a2c3283a35)
-
-</div>
-
-<div align="center">
-
-## Step 3:
-
-</div>
-
-
-#### 🛠️ Craft Your Digital Identity!
-
-Ready to carve out your space in the coding cosmos? It's time to showcase your unique coding persona. Follow the neon-lit path to create your portfolio in the `/profile` directory by following these instructions:
-
-#### 🍴 Fork It!
-
-Start by forking [this repository](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/fork) to your own GitHub realm.
-
-#### 📄 Name Your File!
-
-Craft a new markdown file inside the `/profiles` folder. Name it using your MUID (Refer Step 2 on on how to get MUID). It's like your digital signature!
-
-#### ✍️ Fill It Out!
-
-Use the provided template to fill out your details.[TEMPLATE.md](./TEMPLATE.md)
-
-#### 🚀 Pull It!
-
-Once you're ready, create a pull request targeting the main branch. Let the world see your brilliance!
-
-> [!TIP]
-> ### Need a guiding star? Check out [example@mulearn.md](./profiles/vishakhabhayan@mulearn.md) for the perfect template to light your way.
-
-
-
-> Embark on this step with passion and precision.
-> Your portfolio is the beacon that will guide others to recognize your coding prowess! ✨
-
-
-
-
-
-
-#
-
-
-<div align="center">
-
-## 🚀 Step 4: Dive into the Digital Arena!
-
-### Welcome to the heart of our **LAUNCHPAD**
-
-> The Discord server's *LAUNCHPAD* section. Here's your guide to navigating the channels:
-
-
-<img width="233" alt="Screenshot 2024-04-12 at 8 34 44 AM" src="https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/5155afee-9d3d-4171-9ae6-38ec7110be31">
-
-
-
-</div>
-
-<div align="left">
-
-#### 📢 #ieee-launchpad-announcment 
-
-- Purpose: Your primary source of truth! Get real-time updates and tasks as the challenge unfolds.
-- Tip: Stay alert! You wouldn't want to miss out on any crucial info.
-
-#### 🤖 #ieee-lp-introduction 
-- Purpose: Roll out the red carpet! Introduce yourself to fellow coders.
-- Action: Drop a short bio and the GitHub repo link of your profile for the IEEE Launchpad.
-
-#### 🚀 #ieee-lp-task-dropbox
-
-- Purpose: The battleground where you showcase your skills.
-- Action: Submit your completed tasks and let the world witness your coding prowess.
-
-#### 🎙️ #ieee-launchpad-officehours
-
-- Purpose: Got questions? We've got answers!
-- Timing: Tune in every day from 8 PM to 9 PM.
-- Tip: Collaboration is key. Engage, discuss, and get insights directly from the organizers.
-
-
-</div>
-
-
-</div>
-
-#
-
-
-:memo: **Note:** That's it! You're all set to participate in **IEEE LAUNCHPAD Job Fair**. Keep an eye on the announcements channel for any additional instructions or updates. If you have any questions or need assistance, please feel free to ask on the Discord server.
-
-#
-
-> [!IMPORTANT]  
-> If you're new to GitHub and editing markdown, you can learn more by following this [Introduction to Github](https://learn.microsoft.com/en-us/training/modules/introduction-to-github/) and [Introduction to Markdown](https://learn.microsoft.com/en-us/training/modules/communicate-using-markdown/)
+- Kerala's tech scene is buzzing! Strong talent, government support, and a focus on social impact have me excited. I see myself contributing to its continued growth. 
 
 
 
 ---
+
+
+
+![Frame3](https://github.com/gtech-mulearn/IEEE-LAUNCHPAD/assets/94307781/33c8ad32-fb7e-4a84-8c05-054c697904fc)
